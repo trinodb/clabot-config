@@ -1,5 +1,5 @@
 {
-  "contributors": "https://api.github.com/repos/prestosql/cla/contents/contributors",
-  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our [Contributor License Agreement](https://github.com/prestosql/cla/raw/master/Presto%20Foundation%20Individual%20CLA.pdf), and we don't seem to have you on file. In order for us to review and merge your code, please submit the signed CLA to cla@prestosql.io. For more information, see https://github.com/prestosql/cla.",
+  "contributors": "https://api.github.com/repos/trinodb/cla/contents/contributors",
+  "message": "Thank you for your pull request and welcome to our community. We require contributors to sign our [Contributor License Agreement](https://github.com/trinodb/cla/raw/master/Presto%20Foundation%20Individual%20CLA.pdf), and we don't seem to have you on file. In order for us to review and merge your code, please submit the signed CLA to cla@trino.io. For more information, see https://github.com/trinodb/cla.",
   "label": "cla-signed"
 }
